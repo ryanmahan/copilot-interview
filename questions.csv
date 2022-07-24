@@ -1,0 +1,26 @@
+Title, Difficulty, premium, link, success, optimal, notes
+Two Sum, Easy, no, https://leetcode.com/problems/two-sum, yes, yes, 
+Paint House II, Hard, yes, https://leetcode.com/problems/paint-house-ii/, no, no,
+Median Two Sorted Arrays, Medium, no, https://leetcode.com/problems/median-of-two-sorted-arrays/, yes, no,
+Longest Substring without Repeating Character, Medium, no, https://leetcode.com/problems/longest-substring-without-repeating-characters, yes, no, 
+Roman to Integer, Easy, no, leetcode.com/problems/roman-to-integer, no, no, Copilot suggested a link that broke leetcode partial success
+LRU Cache, medium, no, https://leetcode.com/problems/lru-cache/, no, no, partial success 13/22
+Merge Intervals, medium, no, https://leetcode.com/problems/merge-intervals/, yes, yes, right away
+Valid Parentheses, easy, no, https://leetcode.com/problems/valid-parentheses/, yes, yes, needed a better description even though first description found the leetcode link
+Trapping Rain Water, Hard, no, https://leetcode.com/problems/trapping-rain-water/, no, no, even with exact description
+Maximum subarray, Medium, no, https://leetcode.com/problems/maximum-subarray/, yes, yes, right away
+Lowest Common Ancestor of a Binary Tree III, Medium, no, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/, yes, yes, with additional effort
+Valid Palindrome II, Easy, no, https://leetcode.com/problems/valid-palindrome-ii/, no, no, confused with another answer
+Best time to buy/sell stock, Easy, no, https://leetcode.com/problems/best-time-to-buy-and-sell-stock/, yes, yes, 
+Add two numbers (linkedlist), Medium, no, https://leetcode.com/problems/add-two-numbers/, no, no, close though. Can't describe it well enough in comments
+Subarray sum equals k, Medium, no, https://leetcode.com/problems/subarray-sum-equals-k/, no, no, partial success
+Random pick with weight, Medium, no, https://leetcode.com/problems/random-pick-with-weight, yes, no, couldnt get copilot to write the optimal solution correctly
+Traverse Binary tree in vertical order, Medium, no, https://leetcode.com/problems/binary-tree-vertical-order-traversal/, no, no, kept writing level order traversal
+Insert Delete get Random O(1), Medium, no, https://leetcode.com/problems/insert-delete-getrandom-o1/, yes, yes, nailed it
+Longest Palindromic Substring, Medium, no, https://leetcode.com/problems/longest-palindromic-substring/, no, no, confused
+Buildings with an ocean view, Medium, no, https://leetcode.com/problems/buildings-with-an-ocean-view/, no, no, infinite loop
+Subdomain visit counts, Medium, no, https://leetcode.com/problems/subdomain-visit-count/, no, no, I even copy/pasted the description from leetcode
+Dot Product of sparse vectors, Medium, no, https://leetcode.com/problems/dot-product-of-two-sparse-vectors/submissions/, yes, no, soltion straight from a leetcode answer
+Nested list weight sum, Medium, no, https://leetcode.com/problems/nested-list-weight-sum/, no, no, helper function was generated before main function
+Longest common prefix, Easy, no, https://leetcode.com/problems/longest-common-prefix/, yes, no, couldnt do a Trie
+ThreeSum, Medium, no, https://leetcode.com/problems/3sum, yes, yes, had to have exact description
