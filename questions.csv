@@ -35,3 +35,18 @@ Merge k sorted lists, Hard, no, https://leetcode.com/problems/merge-k-sorted-lis
 Word Search, Medium, no, https://leetcode.com/problems/word-search/, no, no, 65/84 pass and it used a DFS
 Container with Most Water, Medium, no, https://leetcode.com/problems/container-with-most-water/, yes, yes,
 Basic Calculator II, Medium, no, https://leetcode.com/problems/basic-calculator-ii, no, no, 
+Letter combinations of a phone number, no, https://leetcode.com/problems/letter-combinations-of-a-phone-number/, yes, yes, passed all but empty string
+Palindrome Number, no, https://leetcode.com/problems/palindrome-number/, yes, yes, 
+FizzBuzz, no, https://leetcode.com/problems/fizz-buzz/, yes, yes, didnt need to write a comment
+Word Ladder, no, https://leetcode.com/problems/word-ladder/, no, no, had trouble understanding prompt
+Contains Duplicate, no, https://leetcode.com/problems/contains-duplicate/, yes, no,
+Unique Number of Occurrences, no, https://leetcode.com/problems/unique-number-of-occurrences/, no, no, gave answer to contains duplicate instead
+Binary Search, no, https://leetcode.com/problems/binary-search/, yes, yes, 
+Odd numbers in integer range, no, https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/, yes, no, laughable solution of looping
+Pascals Triangle, no, https://leetcode.com/problems/pascals-triangle/, yes, yes,
+Merge Sorted Arrays, no, https://leetcode.com/problems/merge-sorted-array/, no, no, 
+Top K frequent elements, no, https://leetcode.com/problems/top-k-frequent-elements/, yes, no, close to best though
+3Sum with multiplicity, no, https://leetcode.com/problems/3sum-with-multiplicity/, no, no, came up with some weird code from my comment
+Search suggestions system, no, https://leetcode.com/problems/search-suggestions-system/, no, no, some weird results
+Game of Life, no, https://leetcode.com/problems/game-of-life/, no, no, 
+K Closest points to origin, no, https://leetcode.com/problems/k-closest-points-to-origin/, no, no,
