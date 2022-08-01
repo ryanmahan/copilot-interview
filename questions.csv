@@ -33,3 +33,5 @@ Generate Parentheses, Medium, no, https://leetcode.com/problems/generate-parenth
 Shortest Path with obstacles, Hard, no, https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination, no, no, got the general gist of it
 Merge k sorted lists, Hard, no, https://leetcode.com/problems/merge-k-sorted-lists/, no, no, 
 Word Search, Medium, no, https://leetcode.com/problems/word-search/, no, no, 65/84 pass and it used a DFS
+Container with Most Water, Medium, no, https://leetcode.com/problems/container-with-most-water/, yes, yes,
+Basic Calculator II, Medium, no, https://leetcode.com/problems/basic-calculator-ii, no, no, 
