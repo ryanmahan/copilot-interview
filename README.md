@@ -2,6 +2,8 @@
 
 It could get an internship!
 
+**Note**: the below is out of date by a little, I've run a few more tests but they don't change the results by much so far.
+
 ## Method
 
 I chose typescript as my language of choice, as providing a function with types would be easier both for me and copilot. I could provide function defintions with types to clarify what I wanted, and copilot could write types into the body so I could read the code easily.

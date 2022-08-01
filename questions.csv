@@ -20,7 +20,16 @@ Insert Delete get Random O(1), Medium, no, https://leetcode.com/problems/insert-
 Longest Palindromic Substring, Medium, no, https://leetcode.com/problems/longest-palindromic-substring/, no, no, confused
 Buildings with an ocean view, Medium, no, https://leetcode.com/problems/buildings-with-an-ocean-view/, no, no, infinite loop
 Subdomain visit counts, Medium, no, https://leetcode.com/problems/subdomain-visit-count/, no, no, I even copy/pasted the description from leetcode
-Dot Product of sparse vectors, Medium, no, https://leetcode.com/problems/dot-product-of-two-sparse-vectors/submissions/, yes, no, soltion straight from a leetcode answer
 Nested list weight sum, Medium, no, https://leetcode.com/problems/nested-list-weight-sum/, no, no, helper function was generated before main function
 Longest common prefix, Easy, no, https://leetcode.com/problems/longest-common-prefix/, yes, no, couldnt do a Trie
 ThreeSum, Medium, no, https://leetcode.com/problems/3sum, yes, yes, had to have exact description
+Simplify path, Medium, no, https://leetcode.com/problems/simplify-path/submissions/, no, no, close but missing some conditions
+Integer to English Words, Hard, no, https://leetcode.com/problems/integer-to-english-words/, no, no, infinite loop
+Kth Largest in Array, Medium, no, https://leetcode.com/problems/kth-largest-element-in-an-array, yes, no, 
+Decode String, Medium, no, https://leetcode.com/problems/decode-string/, no, no, 
+Design Underground System, Medium, no, https://leetcode.com/problems/design-underground-system/, no, no, 
+Next Permutation, Medium, no, https://leetcode.com/problems/next-permutation/, yes, yes,
+Generate Parentheses, Medium, no, https://leetcode.com/problems/generate-parentheses/, yes, yes, 
+Shortest Path with obstacles, Hard, no, https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination, no, no, got the general gist of it
+Merge k sorted lists, Hard, no, https://leetcode.com/problems/merge-k-sorted-lists/, no, no, 
+Word Search, Medium, no, https://leetcode.com/problems/word-search/, no, no, 65/84 pass and it used a DFS
